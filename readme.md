@@ -2,24 +2,20 @@
 
 Modern furniture website design inspired by luxury interior brands.
 
-## 🎥 Demo
+## 🎥 Design Demo
 
-Click the image below to watch the design walkthrough:
+Watch the full design walkthrough:
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1ejwVTLLZ8ZnmD_XTPUuauzTOr6N_yEm9/view?usp=sharing">
-<img src="./public/images/hero_clear_bright_1782467481438.png" width="800">
-</a>
-</p>
+https://drive.google.com/file/d/1ejwVTLLZ8ZnmD_XTPUuauzTOr6N_yEm9/view?usp=sharing
 
 
 ## ✨ Features
 
-- Modern responsive furniture landing page
-- Product showcase
+- Modern and clean furniture website design
+- Product showcase sections
 - Interior gallery
-- Smooth user experience
-- Modern UI system
+- Responsive user interface
+- Smooth and simple user experience
 
 
 ## 🛠️ Built With
@@ -29,3 +25,7 @@ Click the image below to watch the design walkthrough:
 - JavaScript
 - Vite
 
+
+## 📌 Project Overview
+
+Mission Studio is a modern furniture web experience focused on presenting premium furniture products with a clean layout and elegant visual style.
